@@ -1,0 +1,1 @@
+In the source code section, different code files like dataset preparation, model building, model testing, real time emotion detection, gui application code  files are included. This section also includes project diagrams, images, other required XML files, etc.
