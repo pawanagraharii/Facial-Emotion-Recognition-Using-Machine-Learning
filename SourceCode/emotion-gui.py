@@ -12,7 +12,7 @@ class Player(tk.Frame):
         self.pack()
         mixer.init()
         
-        self.playlist = []
+        
         self.current = 0
         self.paused = True
         self.played = False
